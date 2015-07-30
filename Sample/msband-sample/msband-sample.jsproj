@@ -65,7 +65,7 @@
     <SDKReference Include="Microsoft.Phone.WinJS.2.1, Version=1.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Winmd-Band\wrc-msband.csproj" />
+    <ProjectReference Include="..\..\wrc-msband\wrc-msband.csproj" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
   <!-- To modify your build process, add your task inside one of the targets below then uncomment
