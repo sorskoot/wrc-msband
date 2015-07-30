@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "msband-sample", "msband-sample\msband-sample.jsproj", "{CA0DF770-1CEC-4A54-B7E5-29A391B1265E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wrc-msband", "..\Winmd-Band\wrc-msband.csproj", "{E753B5B9-569A-48FB-9BFF-3C5681899890}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wrc-msband", "..\wrc-msband\wrc-msband.csproj", "{E753B5B9-569A-48FB-9BFF-3C5681899890}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
